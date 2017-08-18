@@ -1,0 +1,42 @@
+<templateSet group="Bootstrap3">
+  <template name="bs3-well" value="&lt;div class=&quot;well&quot;&gt;$var1$&lt;/div&gt;$END$" description="Well" toReformat="true" toShortenFQNames="false">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GSP" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="bsc" value="&lt;ol class=&quot;breadcrumb&quot;&gt;&#10;&#9;&lt;li&gt;&#10;&#9;&#9;&lt;a href=&quot;#&quot;&gt;首頁&lt;/a&gt;&#10;&#9;&lt;/li&gt;&#10;&#9;&lt;li&gt;&#10;&#9;&#9;&lt;a href=&quot;#&quot;&gt;最新消息&lt;/a&gt;&#10;&#9;&lt;/li&gt;&#10;&#9;&lt;li class=&quot;active&quot;&gt;媽我上電視了&lt;/li&gt;&#10;&lt;/ol&gt;&#10;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="bs3-well:small" value="&lt;div class=&quot;well well-sm&quot;&gt;$var1$&lt;/div&gt;$END$" description="Well (small)" toReformat="true" toShortenFQNames="false">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GSP" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="bs3-media-object" value="&lt;div class=&quot;media&quot;&gt;&#10;  &lt;a class=&quot;media-left&quot; href=&quot;#&quot;&gt;&#10;    &lt;img src=&quot;http://placehold.it/64x64&quot; style=&quot;width: 64px; height: 64px;&quot;&gt;&#10;  &lt;/a&gt;&#10;  &lt;div class=&quot;media-body&quot;&gt;&#10;    &lt;h4 class=&quot;media-heading&quot;&gt;$var1$&lt;/h4&gt;&#10;    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.&#10;  &lt;/div&gt;&#10;&lt;/div&gt;$END$&#10;" description="Media object (single entry)" toReformat="true" toShortenFQNames="false">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GSP" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="bs3-responsive-embed:16:9" value="&lt;!-- 16:9 aspect ratio --&gt;&#10;&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;&#10;  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;$var1$&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&#10;&lt;/div&gt;$END$" description="Responsive embed of video (16:9)" toReformat="true" toShortenFQNames="false">
+    <variable name="var1" expression="" defaultValue="&quot;https://www.youtube.com/watch?v=TAvvEP3twyg&amp;list=UU_PqH6v4O6OhZdqjxM4OTvg&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="GSP" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="bs3-responsive-embed:4:3" value="&lt;!-- 4:3 aspect ratio --&gt;&#10;&lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;&#10;  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;$var1$&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&#10;&lt;/div&gt;$END$" description="Responsive embed of video (4:3)" toReformat="true" toShortenFQNames="false">
+    <variable name="var1" expression="" defaultValue="&quot;https://www.youtube.com/watch?v=TAvvEP3twyg&amp;list=UU_PqH6v4O6OhZdqjxM4OTvg&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="GSP" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

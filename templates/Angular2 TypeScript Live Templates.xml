@@ -1,0 +1,5 @@
+<templateSet group="Angular2 TypeScript Live Templates">
+  <template name="ng2-component-root" value="import { Component } from '@angular/core';&#10;&#10;@Component({&#10; moduleId: module.id,&#10; selector: '$my-app$',&#10; template: `&#10;  &lt;router-outlet&gt;&lt;/router-outlet&gt;&#10;  `&#10;})&#10;export class $App$Component { }&#10;$END$" description="Angular 2 App root component snippet" toReformat="true" toShortenFQNames="true">
+    <variable name="App" expression="" defaultValue="&quot;App&quot;" alwaysStopAt="true" />
+  </template>
+</templateSet>

@@ -1,0 +1,322 @@
+<templateSet group="Bootstrap94">
+  <template name="bsh" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;$var1$&quot;&gt;&#10;&#9;&lt;head&gt;&#10;&#9;&#9;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&#9;&#9;&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;&#10;&#9;&#9;&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0, shrink-to-fit=no&quot;&gt;&#10;&#9;&#9;&lt;title&gt;Title Page&lt;/title&gt;&#10;&#9;&#9;&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css&quot;&gt;&#10;&#9;&#9;&lt;!--[if lt IE 9]&gt;&#10;&#9;&#9;&#9;&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js&quot;&gt;&lt;/script&gt;&#10;&#9;&#9;&#9;&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js&quot;&gt;&lt;/script&gt;&#10;&#9;&#9;&lt;![endif]--&gt;&#10;&#9;&lt;/head&gt;&#10;&#9;&lt;body&gt;&#10;&#9;&#9;&#10;&#9;&#9;$SELECTION$$END$&#10;&#9;&#9;&#10;&#9;&#9;&#10;&#9;&#9;&lt;script src=&quot;https://code.jquery.com/jquery.js&quot;&gt;&lt;/script&gt;&#10;&#9;&#9;&lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;&#10;&#9;&lt;/body&gt;&#10;&lt;/html&gt;" description="bootstrap 3 html template" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="&quot;zh-Hant-TW&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr39" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-9&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="兩欄39" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr48" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="兩欄48" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr55" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-5 col-sm-offset-1&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-5&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="兩欄55" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr66" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="兩欄66" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr84" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-8&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="兩欄84" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr93" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-9&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="兩欄93" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr363" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="三欄363" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr444" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-4&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="三欄444" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr633" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="三欄633" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr3333" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="四欄" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr22222" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2 col-sm-offset-1&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="五欄" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr222222" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-2&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="六欄" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr6" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="一欄6" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr12" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-12&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="一欄12" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cr6c" value="&lt;div class=&quot;container&quot;&gt;&#10;&#9;&lt;div class=&quot;row&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;col-xs-12 col-sm-6 col-sm-offset-3&quot;&gt;$var1$&lt;/div&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/div&gt;" description="一欄6置中" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-blockquote" value="&lt;blockquote&gt;&#10;&#9;&lt;p&gt;天將降大任於斯人也，必先讓你偷懶&lt;/p&gt;&#10;    &lt;footer&gt;&#10;&#9;&#9;出自&#10;&#9;&#9;&lt;cite title=&quot;引用來源&quot;&gt;Amos&lt;/cite&gt;&#10;&#9;&lt;/footer&gt;&#10;&lt;/blockquote&gt;" description="引言 blockquote" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-blockquote:reverse" value="&lt;blockquote class=&quot;blockquote-reverse&quot;&gt;&#10;&#9;&lt;p&gt;天將降大任於斯人也，必先讓你偷懶&lt;/p&gt;&#10;    &lt;footer&gt;&#10;&#9;&#9;出自&#10;&#9;&#9;&lt;cite title=&quot;引用來源&quot;&gt;Amos&lt;/cite&gt;&#10;&#9;&lt;/footer&gt;&#10;&lt;/blockquote&gt;" description="引言 blockquote 靠右" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-panel" value="&lt;div class=&quot;panel panel-$var1$&quot;&gt;&#10;  &lt;div class=&quot;panel-heading&quot;&gt;&#10;    &lt;h3 class=&quot;panel-title&quot;&gt;標題&lt;/h3&gt;&#10;  &lt;/div&gt;&#10;  &lt;div class=&quot;panel-body&quot;&gt;&#10;    內容文字&#10;  &lt;/div&gt;&#10;  &lt;div class=&quot;panel-footer&quot;&gt;&#10;    footer&#10;  &lt;/div&gt;&#10;&lt;/div&gt;" description="面板 panel default" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="&quot;default&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-panel:info" value="&lt;div class=&quot;panel panel-info&quot;&gt;&#10;  &lt;div class=&quot;panel-heading&quot;&gt;&#10;    &lt;h3 class=&quot;panel-title&quot;&gt;標題&lt;/h3&gt;&#10;  &lt;/div&gt;&#10;  &#10;  &lt;div class=&quot;panel-body&quot;&gt;&#10;    內容文字&#10;  &lt;/div&gt;&#10;  &#10;  &lt;div class=&quot;panel-footer&quot;&gt;&#10;    footer&#10;  &lt;/div&gt;&#10;&lt;/div&gt;" description="面板 info" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-panel:primary" value="&lt;div class=&quot;panel panel-primary&quot;&gt;&#10;  &lt;div class=&quot;panel-heading&quot;&gt;&#10;    &lt;h3 class=&quot;panel-title&quot;&gt;標題&lt;/h3&gt;&#10;  &lt;/div&gt;&#10;  &#10;  &lt;div class=&quot;panel-body&quot;&gt;&#10;    內容文字&#10;  &lt;/div&gt;&#10;  &#10;  &lt;div class=&quot;panel-footer&quot;&gt;&#10;    footer&#10;  &lt;/div&gt;&#10;&lt;/div&gt;" description="面板 primary" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-panel:warning" value="&lt;div class=&quot;panel panel-warning&quot;&gt;&#10;  &lt;div class=&quot;panel-heading&quot;&gt;&#10;    &lt;h3 class=&quot;panel-title&quot;&gt;標題&lt;/h3&gt;&#10;  &lt;/div&gt;&#10;  &#10;  &lt;div class=&quot;panel-body&quot;&gt;&#10;    內容文字&#10;  &lt;/div&gt;&#10;  &#10;  &lt;div class=&quot;panel-footer&quot;&gt;&#10;    footer&#10;  &lt;/div&gt;&#10;&lt;/div&gt;" description="面板 warning" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-panel:danger" value="&lt;div class=&quot;panel panel-danger&quot;&gt;&#10;  &lt;div class=&quot;panel-heading&quot;&gt;&#10;    &lt;h3 class=&quot;panel-title&quot;&gt;標題&lt;/h3&gt;&#10;  &lt;/div&gt;&#10;  &#10;  &lt;div class=&quot;panel-body&quot;&gt;&#10;    內容文字&#10;  &lt;/div&gt;&#10;  &#10;  &lt;div class=&quot;panel-footer&quot;&gt;&#10;    footer&#10;  &lt;/div&gt;&#10;&lt;/div&gt;" description="面板 danger" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-panel:success" value="&lt;div class=&quot;panel panel-success&quot;&gt;&#10;  &lt;div class=&quot;panel-heading&quot;&gt;&#10;    &lt;h3 class=&quot;panel-title&quot;&gt;標題&lt;/h3&gt;&#10;  &lt;/div&gt;&#10;  &#10;  &lt;div class=&quot;panel-body&quot;&gt;&#10;    內容文字&#10;  &lt;/div&gt;&#10;  &#10;  &lt;div class=&quot;panel-footer&quot;&gt;&#10;    footer&#10;  &lt;/div&gt;&#10;&lt;/div&gt;" description="面板 success" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-panel:list-group" value="&lt;div class=&quot;panel panel-$var1$&quot;&gt;&#10;  &lt;div class=&quot;panel-heading&quot;&gt;&#10;    &lt;h3 class=&quot;panel-title&quot;&gt;標題&lt;/h3&gt;&#10;  &lt;/div&gt;&#10;  &lt;div class=&quot;panel-body&quot;&gt;&#10;    可以刪掉 panel-body div&#10;  &lt;/div&gt;&#10;  &lt;ul class=&quot;list-group&quot;&gt;&#10;    &lt;li class=&quot;list-group-item active&quot;&gt;清單項目一&lt;/li&gt;&#10;    &lt;li class=&quot;list-group-item&quot;&gt;清單項目二&lt;/li&gt;&#10;    &lt;li class=&quot;list-group-item&quot;&gt;清單項目三&lt;/li&gt;&#10;  &lt;/ul&gt;&#10;&lt;/div&gt;" description="面板加清單群組" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="&quot;default&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-panel:table" value="&lt;div class=&quot;panel panel-$var1$&quot;&gt;&#10;  &lt;div class=&quot;panel-heading&quot;&gt;&#10;    &lt;h3 class=&quot;panel-title&quot;&gt;標題&lt;/h3&gt;&#10;  &lt;/div&gt;&#10;  &lt;div class=&quot;panel-body&quot;&gt;&#10;    可以刪掉 panel-body div&#10;  &lt;/div&gt;&#10;  &lt;table class=&quot;table&quot;&gt;&#10;    &lt;tr&gt;&#10;      &lt;td&gt;&lt;/td&gt;&#10;      &lt;td&gt;&lt;/td&gt;&#10;      &lt;td&gt;&lt;/td&gt;&#10;    &lt;/tr&gt;&#10;    &lt;tr&gt;&#10;      &lt;td&gt;&lt;/td&gt;&#10;      &lt;td&gt;&lt;/td&gt;&#10;      &lt;td&gt;&lt;/td&gt;&#10;    &lt;/tr&gt;&#10;  &lt;/table&gt;&#10;&lt;/div&gt;" description="面板加表格" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="&quot;default&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-list-unstyled" value="&lt;ul class=&quot;list-unstyled&quot;&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;清單項目&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;清單項目&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;清單項目&lt;/a&gt;&lt;/li&gt;&#10;&lt;/ul&gt;&#10;$END$" description="清單 無符號" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-list-inline" value="&lt;ul class=&quot;list-inline&quot;&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;清單項目&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;清單項目&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;清單項目&lt;/a&gt;&lt;/li&gt;&#10;&lt;/ul&gt;&#10;$END$" description="清單 水平" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-list-group" value="&lt;ul class=&quot;list-group&quot;&gt;&#10;&#9;&lt;li class=&quot;list-group-item&quot;&gt;清單項目 1&lt;/li&gt;&#10;&#9;&lt;li class=&quot;list-group-item&quot;&gt;清單項目 2&lt;/li&gt;&#10;&#9;&lt;li class=&quot;list-group-item&quot;&gt;清單項目 3&lt;/li&gt;&#10;&lt;/ul&gt;&#10;$END$" description="清單群組" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-list-group:badge" value="&lt;ul class=&quot;list-group&quot;&gt;&#10;&#9;&lt;li class=&quot;list-group-item&quot;&gt;&lt;span class=&quot;badge&quot;&gt;10&lt;/span&gt;清單項目 1&lt;/li&gt;&#10;&#9;&lt;li class=&quot;list-group-item&quot;&gt;&lt;span class=&quot;badge&quot;&gt;10&lt;/span&gt;清單項目 2&lt;/li&gt;&#10;&#9;&lt;li class=&quot;list-group-item&quot;&gt;&lt;span class=&quot;badge&quot;&gt;10&lt;/span&gt;清單項目 3&lt;/li&gt;&#10;&lt;/ul&gt;&#10;$END$" description="清單群組 徽章" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-list-group:title-content" value="&lt;div class=&quot;list-group&quot;&gt;&#10;&#9;&lt;a href=&quot;#&quot; class=&quot;list-group-item active&quot;&gt;&#10;&#9;&#9;&lt;h4 class=&quot;list-group-item-heading&quot;&gt;List group item heading&lt;/h4&gt;&#10;&#9;&#9;&lt;p class=&quot;list-group-item-text&quot;&gt;Content goes here&lt;/p&gt;&#10;&#9;&lt;/a&gt;&#10;&#9;&lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;&#10;&#9;&#9;&lt;h4 class=&quot;list-group-item-heading&quot;&gt;List group item heading&lt;/h4&gt;&#10;&#9;&#9;&lt;p class=&quot;list-group-item-text&quot;&gt;Content goes here&lt;/p&gt;&#10;&#9;&lt;/a&gt;&#10;&#9;&lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;&#10;&#9;&#9;&lt;h4 class=&quot;list-group-item-heading&quot;&gt;List group item heading&lt;/h4&gt;&#10;&#9;&#9;&lt;p class=&quot;list-group-item-text&quot;&gt;Content goes here&lt;/p&gt;&#10;&#9;&lt;/a&gt;&#10;&lt;/div&gt;&#10;$END$" description="清單群組 標題內文" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-list-group:link" value="&lt;div class=&quot;list-group&quot;&gt;&#10;&#9;&lt;a href=&quot;#&quot; class=&quot;list-group-item active&quot;&gt;清單項目 1&lt;/a&gt;&#10;&#9;&lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;清單項目 2&lt;/a&gt;&#10;&#9;&lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;清單項目 3&lt;/a&gt;&#10;&lt;/div&gt;&#10;$END$" description="清單群組 超連結" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-list-group:link-badge" value="&lt;div class=&quot;list-group&quot;&gt;&#10;&#9;&lt;a href=&quot;#&quot; class=&quot;list-group-item active&quot;&gt;&lt;span class=&quot;badge&quot;&gt;10&lt;/span&gt;清單項目 1&lt;/a&gt;&#10;&#9;&lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;&lt;span class=&quot;badge&quot;&gt;10&lt;/span&gt;清單項目 2&lt;/a&gt;&#10;&#9;&lt;a href=&quot;#&quot; class=&quot;list-group-item&quot;&gt;&lt;span class=&quot;badge&quot;&gt;10&lt;/span&gt;清單項目 3&lt;/a&gt;&#10;&lt;/div&gt;&#10;$END$" description="清單群組 超連結 徽章" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-badge" value="&lt;span class=&quot;badge&quot;&gt;$var1$&lt;/span&gt;&#10;$END$" description="徽章" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="&quot;500&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-movie:4by3" value="&lt;!-- 4:3 aspect ratio --&gt;&#10;&lt;div class=&quot;embed-responsive embed-responsive-4by3&quot;&gt;&#10;  &lt;!-- allowfullscreen can be true or &quot;&quot; --&gt;&#10;  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;$var1$&quot; allowfullscreen=&quot;$var2$&quot;&gt;&lt;/iframe&gt;&#10;&lt;/div&gt;&#10;$END$" description="內嵌影片 4:3" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="&quot;https://www.youtube.com/embed/RSJbYWPEaxw&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-movie:16by9" value="&lt;!-- 16:9 aspect ratio --&gt;&#10;&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;&#10;  &lt;!-- allowfullscreen can be true or &quot;&quot; --&gt;&#10;  &lt;iframe class=&quot;embed-responsive-item&quot; src=&quot;$var1$&quot; allowfullscreen=&quot;$var2$&quot;&gt;&lt;/iframe&gt;&#10;&lt;/div&gt;&#10;$END$" description="內嵌影片 16:9" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="&quot;https://www.youtube.com/embed/RSJbYWPEaxw&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-label" value="&lt;span class=&quot;label label-$var1$&quot;&gt;Label&lt;/span&gt;$END$" description="label 標籤 default" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="&quot;default&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-label:primary" value="&lt;span class=&quot;label label-primary&quot;&gt;Label&lt;/span&gt;$END$" description="label 標籤 primary" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-label:info" value="&lt;span class=&quot;label label-info&quot;&gt;Label&lt;/span&gt;$END$" description="label 標籤 info" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-label:success" value="&lt;span class=&quot;label label-success&quot;&gt;Label&lt;/span&gt;$END$" description="label 標籤 success" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-label:danger" value="&lt;span class=&quot;label label-danger&quot;&gt;Label&lt;/span&gt;$END$" description="label 標籤 danger" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-label:warning" value="&lt;span class=&quot;label label-warning&quot;&gt;Label&lt;/span&gt;$END$" description="label 標籤 warning" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-dropdown" value="&lt;div class=&quot;dropdown&quot;&gt;&#10;&#9;&lt;a href=&quot;#&quot; class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot;&gt;請選擇 &lt;b class=&quot;caret&quot;&gt;&lt;/b&gt;&lt;/a&gt;&#10;&#9;&lt;ul class=&quot;dropdown-menu&quot;&gt;&#10;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;繁體中文&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;English&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;日本語&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;/ul&gt;&#10;&lt;/div&gt;&#10;$END$" description="下拉選單" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-dropup" value="&lt;div class=&quot;dropup&quot;&gt;&#10;&#9;&lt;a href=&quot;#&quot; class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot;&gt;請選擇 &lt;b class=&quot;caret&quot;&gt;&lt;/b&gt;&lt;/a&gt;&#10;&#9;&lt;ul class=&quot;dropdown-menu&quot;&gt;&#10;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;繁體中文&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;English&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;日本語&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;/ul&gt;&#10;&lt;/div&gt;&#10;$END$" description="上彈選單" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-dropdown:divider" value="&lt;li class=&quot;divider&quot;&gt;&lt;/li&gt;&#10;$END$" description="下拉分隔線" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-dropdown:header" value="&lt;li class=&quot;dropdown-header&quot;&gt;&lt;/li&gt;&#10;$END$" description="下拉標題" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-navbar:leftin" value="&lt;nav class=&quot;navbar navbar-default&quot; role=&quot;navigation&quot;&gt;&#10;&#9;&lt;div class=&quot;container&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;navbar-header&quot;&gt;&#10;&#9;&#9;&#9;&lt;button type=&quot;button&quot; class=&quot;navbar-toggle&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;span class=&quot;sr-only&quot;&gt;選單切換&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&#10;&#9;&#9;&#9;&lt;/button&gt;&#10;&#9;&#9;&#9;&lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;CSS可樂&lt;/a&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#10;&#9;&#9;&lt;!-- 手機隱藏選單區 --&gt;&#10;&#9;&#9;&lt;div class=&quot;my-navbar leftIn&quot;&gt;&#10;&#9;&#9;&#9;&lt;!-- 左選單 --&gt;&#10;&#9;&#9;&#9;&lt;ul class=&quot;nav navbar-nav&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;關於CSS可樂&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;CSS教學&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;CSS範例&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;原創CSS&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&lt;/ul&gt;&#10;&#9;&#9;&#10;&#9;&#9;&#9;&lt;!-- 搜尋表單 --&gt;&#10;&#9;&#9;&#9;&lt;form class=&quot;navbar-form navbar-left&quot; role=&quot;search&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;form-group&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;input type=&quot;text&quot; class=&quot;form-control&quot; placeholder=&quot;請輸入關鍵字&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&lt;button type=&quot;submit&quot; class=&quot;btn btn-default&quot;&gt;搜尋&lt;/button&gt;&#10;&#9;&#9;&#9;&lt;/form&gt;&#10;&#9;&#9;&#10;&#9;&#9;&#9;&lt;!-- 右選單 --&gt;&#10;&#9;&#9;&#9;&lt;ul class=&quot;nav navbar-nav navbar-right&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Amos 您好&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;登出&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;個人設定&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li class=&quot;dropdown&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;#&quot; class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot;&gt;繁體中文 &lt;b class=&quot;caret&quot;&gt;&lt;/b&gt;&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;ul class=&quot;dropdown-menu&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;繁體中文&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;English&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;日本語&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/ul&gt;&#10;&#9;&#9;&#9;&#9;&lt;/li&gt;&#10;&#9;&#9;&#9;&lt;/ul&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&lt;!-- 手機隱藏選單區結束 --&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/nav&gt;&#10;&#10;&#10;&lt;style type=&quot;text/css&quot;&gt;&#10;@media screen and (max-width:767px){&#10;&#9;.navbar{&#10;&#9;&#9;z-index: 10;&#10;&#9;}&#10;&#9;.my-navbar{&#10;&#9;&#9;position: fixed;&#10;&#9;&#9;background-color: #ccc;&#10;&#9;&#9;overflow: auto;&#10;&#9;&#9;width: 70%;&#10;&#9;&#9;top: 50px;&#10;&#9;&#9;z-index: 9;&#10;&#9;&#9;height: calc(100vh - 50px);&#10;&#9;&#9;transition: 1s;&#10;&#9;}&#10;&#9;.my-navbar .navbar-nav{&#10;&#9;&#9;margin: 0;&#10;&#9;}&#10;&#9;.my-navbar .navbar-form{&#10;&#9;&#9;margin: 0;&#10;&#9;}&#10;&#9;.leftIn{&#10;&#9;&#9;left: -100%;&#10;&#9;}&#10;&#9;.rightIn{&#10;&#9;&#9;right: -100%;&#10;&#9;}&#10;&#9;.my-navbar.leftIn.open{&#10;&#9;&#9;left: 0;&#10;&#9;}&#10;&#9;.my-navbar.rightIn.open{&#10;&#9;&#9;right: 0;&#10;&#9;}&#10;}&#10;&lt;/style&gt;&#10;&#10;&#10;&lt;!-- 將以下原始碼複製到bootstrap.js檔案連結的下方 --&gt;&#10;&lt;script&gt;&#10;$(function(){&#10;&#9;$('.navbar-toggle').on('click', switchNav)&#10;&#9;function switchNav(){&#10;&#9;&#9;$('.my-navbar').toggleClass('open');&#10;&#9;}&#10;})&#10;&lt;/script&gt;&#10;$END$" description="導覽列左滑入" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-navbar:inverse" value="&lt;nav class=&quot;navbar navbar-inverse&quot; role=&quot;navigation&quot;&gt;&#10;&#9;&lt;div class=&quot;container&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;navbar-header&quot;&gt;&#10;&#9;&#9;&#9;&lt;button type=&quot;button&quot; class=&quot;navbar-toggle&quot; data-toggle=&quot;collapse&quot; data-target=&quot;.navbar-ex1-collapse&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;span class=&quot;sr-only&quot;&gt;選單切換&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&#10;&#9;&#9;&#9;&lt;/button&gt;&#10;&#9;&#9;&#9;&lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;CSS可樂&lt;/a&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#10;&#9;&#9;&lt;!-- 手機隱藏選單區 --&gt;&#10;&#9;&#9;&lt;div class=&quot;collapse navbar-collapse navbar-ex1-collapse&quot;&gt;&#10;&#9;&#9;&#9;&lt;!-- 左選單 --&gt;&#10;&#9;&#9;&#9;&lt;ul class=&quot;nav navbar-nav&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;關於CSS可樂&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;CSS教學&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;CSS範例&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;原創CSS&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&lt;/ul&gt;&#10;&#9;&#9;&#10;&#9;&#9;&#9;&lt;!-- 搜尋表單 --&gt;&#10;&#9;&#9;&#9;&lt;form class=&quot;navbar-form navbar-left&quot; role=&quot;search&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;form-group&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;input type=&quot;text&quot; class=&quot;form-control&quot; placeholder=&quot;請輸入關鍵字&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&lt;button type=&quot;submit&quot; class=&quot;btn btn-default&quot;&gt;搜尋&lt;/button&gt;&#10;&#9;&#9;&#9;&lt;/form&gt;&#10;&#9;&#9;&#10;&#9;&#9;&#9;&lt;!-- 右選單 --&gt;&#10;&#9;&#9;&#9;&lt;ul class=&quot;nav navbar-nav navbar-right&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Amos 您好&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;登出&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;個人設定&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li class=&quot;dropdown&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;#&quot; class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot;&gt;繁體中文 &lt;b class=&quot;caret&quot;&gt;&lt;/b&gt;&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;ul class=&quot;dropdown-menu&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;繁體中文&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;English&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;日本語&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/ul&gt;&#10;&#9;&#9;&#9;&#9;&lt;/li&gt;&#10;&#9;&#9;&#9;&lt;/ul&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&lt;!-- 手機隱藏選單區結束 --&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/nav&gt;&#10;$END$" description="導覽列 inverse" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-navbar" value="&lt;nav class=&quot;navbar navbar-default&quot; role=&quot;navigation&quot;&gt;&#10;&#9;&lt;div class=&quot;container&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;navbar-header&quot;&gt;&#10;&#9;&#9;&#9;&lt;button type=&quot;button&quot; class=&quot;navbar-toggle&quot; data-toggle=&quot;collapse&quot; data-target=&quot;.navbar-ex1-collapse&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;span class=&quot;sr-only&quot;&gt;選單切換&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&#10;&#9;&#9;&#9;&lt;/button&gt;&#10;&#9;&#9;&#9;&lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;CSS可樂&lt;/a&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#10;&#9;&#9;&lt;!-- 手機隱藏選單區 --&gt;&#10;&#9;&#9;&lt;div class=&quot;collapse navbar-collapse navbar-ex1-collapse&quot;&gt;&#10;&#9;&#9;&#9;&lt;!-- 左選單 --&gt;&#10;&#9;&#9;&#9;&lt;ul class=&quot;nav navbar-nav&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;關於CSS可樂&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;CSS教學&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;CSS範例&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;原創CSS&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&lt;/ul&gt;&#10;&#9;&#9;&#10;&#9;&#9;&#9;&lt;!-- 搜尋表單 --&gt;&#10;&#9;&#9;&#9;&lt;form class=&quot;navbar-form navbar-left&quot; role=&quot;search&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;form-group&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;input type=&quot;text&quot; class=&quot;form-control&quot; placeholder=&quot;請輸入關鍵字&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&lt;button type=&quot;submit&quot; class=&quot;btn btn-default&quot;&gt;搜尋&lt;/button&gt;&#10;&#9;&#9;&#9;&lt;/form&gt;&#10;&#9;&#9;&#10;&#9;&#9;&#9;&lt;!-- 右選單 --&gt;&#10;&#9;&#9;&#9;&lt;ul class=&quot;nav navbar-nav navbar-right&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Amos 您好&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;登出&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;個人設定&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li class=&quot;dropdown&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;#&quot; class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot;&gt;繁體中文 &lt;b class=&quot;caret&quot;&gt;&lt;/b&gt;&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;ul class=&quot;dropdown-menu&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;繁體中文&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;English&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;日本語&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/ul&gt;&#10;&#9;&#9;&#9;&#9;&lt;/li&gt;&#10;&#9;&#9;&#9;&lt;/ul&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&lt;!-- 手機隱藏選單區結束 --&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/nav&gt;&#10;$END$" description="導覽列 default" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-navbar:fixed-top" value="&lt;nav class=&quot;navbar navbar-default navbar-fixed-top&quot; role=&quot;navigation&quot;&gt;&#10;&#9;&lt;div class=&quot;container&quot;&gt;&#10;&#9;&#9;&lt;div class=&quot;navbar-header&quot;&gt;&#10;&#9;&#9;&#9;&lt;button type=&quot;button&quot; class=&quot;navbar-toggle&quot; data-toggle=&quot;collapse&quot; data-target=&quot;.navbar-ex1-collapse&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;span class=&quot;sr-only&quot;&gt;選單切換&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&#10;&#9;&#9;&#9;&#9;&lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;&#10;&#9;&#9;&#9;&lt;/button&gt;&#10;&#9;&#9;&#9;&lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;CSS可樂&lt;/a&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#10;&#9;&#9;&lt;!-- 手機隱藏選單區 --&gt;&#10;&#9;&#9;&lt;div class=&quot;collapse navbar-collapse navbar-ex1-collapse&quot;&gt;&#10;&#9;&#9;&#9;&lt;!-- 左選單 --&gt;&#10;&#9;&#9;&#9;&lt;ul class=&quot;nav navbar-nav&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;關於CSS可樂&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;CSS教學&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;CSS範例&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;原創CSS&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&lt;/ul&gt;&#10;&#9;&#9;&#10;&#9;&#9;&#9;&lt;!-- 搜尋表單 --&gt;&#10;&#9;&#9;&#9;&lt;form class=&quot;navbar-form navbar-left&quot; role=&quot;search&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;div class=&quot;form-group&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;input type=&quot;text&quot; class=&quot;form-control&quot; placeholder=&quot;請輸入關鍵字&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&#9;&#9;&lt;button type=&quot;submit&quot; class=&quot;btn btn-default&quot;&gt;搜尋&lt;/button&gt;&#10;&#9;&#9;&#9;&lt;/form&gt;&#10;&#9;&#9;&#10;&#9;&#9;&#9;&lt;!-- 右選單 --&gt;&#10;&#9;&#9;&#9;&lt;ul class=&quot;nav navbar-nav navbar-right&quot;&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Amos 您好&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;登出&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;個人設定&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&lt;li class=&quot;dropdown&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;a href=&quot;#&quot; class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot;&gt;繁體中文 &lt;b class=&quot;caret&quot;&gt;&lt;/b&gt;&lt;/a&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;ul class=&quot;dropdown-menu&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;繁體中文&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;English&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;日本語&lt;/a&gt;&lt;/li&gt;&#10;&#9;&#9;&#9;&#9;&#9;&lt;/ul&gt;&#10;&#9;&#9;&#9;&#9;&lt;/li&gt;&#10;&#9;&#9;&#9;&lt;/ul&gt;&#10;&#9;&#9;&lt;/div&gt;&#10;&#9;&#9;&lt;!-- 手機隱藏選單區結束 --&gt;&#10;&#9;&lt;/div&gt;&#10;&lt;/nav&gt;&#10;$END$" description="導覽列 fixed-top" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-media-query:lg" value="@media screen and (min-width:1200px){&#10;&#9;$END$&#10;}" description="media query lg" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-media-query:md" value="@media screen and (min-width:992px){&#10;&#9;$END$&#10;}" description="media query md" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-media-query:sm" value="@media screen and (min-width:768px){&#10;&#9;$END$&#10;}" description="media query sm" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-media-query:xs" value="@media screen and (max-width:767px){&#10;&#9;$END$&#10;}" description="media query xs" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-breadcrumb" value="&lt;ol class=&quot;breadcrumb&quot;&gt;&#10;&#9;&lt;li&gt;&#10;&#9;&#9;&lt;a href=&quot;#&quot;&gt;首頁&lt;/a&gt;&#10;&#9;&lt;/li&gt;&#10;&#9;&lt;li&gt;&#10;&#9;&#9;&lt;a href=&quot;#&quot;&gt;最新消息&lt;/a&gt;&#10;&#9;&lt;/li&gt;&#10;&#9;&lt;li class=&quot;active&quot;&gt;媽我上電視了&lt;/li&gt;&#10;&lt;/ol&gt;&#10;$END$" description="麵包屑" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-page-header" value="&lt;div class=&quot;page-header&quot;&gt;&#10;  &lt;h1&gt;頁面標題 &lt;small&gt;真是好標題啊&lt;/small&gt;&lt;/h1&gt;&#10;&lt;/div&gt;&#10;$END$" description="頁面標題" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-breadcrumb:css" value="&lt;style type=&quot;text/css&quot;&gt;&#10;// 間隔符號&#10;.breadcrumb &gt; li + li:before { content: &quot;/&quot;; }&#10;&#10;// 去掉 / 修改 背景色&#10;.breadcrumb { background-color: transparent; }&#10;&#10;// 修改 文字顏色&#10;.breadcrumb li a { color: #888; }&#10;&lt;/style&gt;&#10;$END$" description="麵包屑 css" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-pager" value="&lt;ul class=&quot;pager&quot;&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;&amp;larr; 上一頁&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li&gt;&lt;a href=&quot;#&quot;&gt;下一頁 &amp;rarr;&lt;/a&gt;&lt;/li&gt;&#10;&lt;/ul&gt;&#10;$END$" description="上下頁" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bs-pager:aside" value="&lt;ul class=&quot;pager&quot;&gt;&#10;&#9;&lt;li class=&quot;previous&quot;&gt;&lt;a href=&quot;#&quot;&gt;&amp;larr; 上一頁&lt;/a&gt;&lt;/li&gt;&#10;&#9;&lt;li class=&quot;next&quot;&gt;&lt;a href=&quot;#&quot;&gt;下一頁 &amp;rarr;&lt;/a&gt;&lt;/li&gt;&#10;&lt;/ul&gt;&#10;$END$" description="上下頁兩邊" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
