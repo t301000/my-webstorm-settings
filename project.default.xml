@@ -1,26 +1,9 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="FileColors">
-        <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
-        <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
-        <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
-        <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
-      </component>
       <component name="InspectionProjectProfileManager">
-        <profile version="1.0">
-          <option name="myName" value="Project Default" />
-        </profile>
+        <option name="PROJECT_PROFILE" />
         <version value="1.0" />
-      </component>
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
-        <property name="nodejs_interpreter_path" value="$USER_HOME$/.local/share/umake/nodejs/nodejs-lang/bin/node" />
-        <property name="HbShouldOpenHtmlAsHb" value="" />
-        <property name="node.js.path.for.package.eslint" value="project" />
-        <property name="node.js.selected.package.eslint" value="" />
-        <property name="node.js.path.for.package.standard" value="project" />
-        <property name="node.js.selected.package.standard" value="" />
       </component>
     </defaultProject>
   </component>
