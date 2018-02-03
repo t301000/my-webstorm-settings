@@ -2,18 +2,8 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="18" />
     <option name="FONT_FAMILY" value="Fira Code" />
-    <option name="FONT_SCALE" value="1.25" />
     <option name="LINE_SPACING" value="1.5" />
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Source Code Pro" />
-  </component>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
-    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>
